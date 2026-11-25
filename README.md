@@ -1,3 +1,3 @@
 # db_git_integration
 
-this is for practicing purpose
+This is for practicing purpose
